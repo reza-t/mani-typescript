@@ -1,0 +1,25 @@
+{
+  "name": "mani-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reza-t/mani-typescript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reza-t/mani-typescript/issues"
+  },
+  "homepage": "https://github.com/reza-t/mani-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.6.2",
+    "typescript": "^5.3.3"
+  }
+}
