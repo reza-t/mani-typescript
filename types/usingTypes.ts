@@ -1,2 +1,7 @@
+function sum(a: number, b: number) {
+  return a+b;
+} 
 
-console.log("Hello ME");
+const result = sum(1,2);
+console.log(result);
+
